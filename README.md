@@ -1,1 +1,1 @@
-# ux-tokens-studio-tokens
+# Tokens Studio Sync
